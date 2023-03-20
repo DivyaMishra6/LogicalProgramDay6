@@ -9,8 +9,10 @@ namespace LogicalProgramDay6
             //fibonacciSeries.Display();
             //ReverseNumber.call();
             //PerfectNumber.Call();
-            PrimeNumber.CheckprimeOrNot();
-
+            //PrimeNumber.CheckprimeOrNot();
+            //Coupon.Couponnumbers();
+           
+            StopWatchProblem.StoptheWatch();
         }
     }
 }
